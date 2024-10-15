@@ -1,0 +1,21 @@
+{
+  "nameRequired": "First name is required",
+  "invalidEmail": "Invalid email address",
+  "emailRequired": "Email is required",
+  "passwordRequired": "Password must be at least 6 characters long",
+  "registerButton": "Register",
+  "signUp": "Sign Up",
+  "createAccountDescription": "Enter your information to create an account",
+  "firstName": "First Name",
+  "firstNamePlaceholder": "Max",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Robinson",
+  "email": "Email",
+  "emailPlaceholder": "m@example.com",
+  "password": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "createAccount": "Create an account",
+  "alreadyHaveAccount": "Already have an account?",
+  "signIn": "Sign in",
+  "signUpWithGitHub": "Sign up with GitHub"
+}
